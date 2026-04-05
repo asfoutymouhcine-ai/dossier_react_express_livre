@@ -1,0 +1,6 @@
+node_modules/
+Backend_Book/node_modules/
+Front_Book/node_modules/
+.env
+.DS_Store
+dist/
